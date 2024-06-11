@@ -16,7 +16,7 @@ Despite my best efforts from May 2019 to April 2020, the PasifikaOS project fail
 
 ## Demo
 
-The PasifikaOS demo is available here on [GitHub](https://github.com/EdwinLiavaa/pasifikaos/vid/pasifikaos.mp4).
+The PasifikaOS demo is available [here]](https://youtu.be/gEWB5ppQmbI?si=cPyke5Yk_YW2tRPQ).
 
 ## How to test and install
 
