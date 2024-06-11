@@ -10,7 +10,7 @@ PasifikaOS is based on the lightweight and energy-efficient Lubuntu variant of U
 
 Despite my best efforts from May 2019 to April 2020, the PasifikaOS project failed to gain significant traction and adoption across the islands. I realized that while the intentions were noble, the execution fell short of truly empowering local communities with the right tools and resources.
 
-* 2019 - [PasifikaOS 0.0.1](https://github.com/EdwinLiavaa/pasifikaos/releases/pasifikaos1.iso) - My first release of PasifikaOS.
+* 2019 - [PasifikaOS 0.0.1](https://drive.google.com/file/d/1BjPci7oPANdDT8ospCLiohrPbctCarCB/view?usp=sharing) - My first release of PasifikaOS.
 * 2020 - [PasifikaOS 0.0.2](https://github.com/EdwinLiavaa/pasifikaos/releases/pasifikaos2.iso) - My second release of PasifikaOS.
 * 2024 - Coming Soon!
 
@@ -23,7 +23,7 @@ The PasifikaOS demo is available [here]](https://youtu.be/gEWB5ppQmbI?si=cPyke5Y
 1. Download the iso image from the links above.
 2. Search the Internet on how to burn an iso image into a flash drive.
 3. Search the Internet on how to boot your computer from a flash drive.
-4. Search the Internet on how to and install an iso image from a flash drive. 
+4. Search the Internet on how to install an iso image from a flash drive. 
 5. Enjoy!
 
 ## Revival
