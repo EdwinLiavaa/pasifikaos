@@ -12,7 +12,7 @@ Despite my best efforts from May 2019 to April 2020, the PasifikaOS project fail
 
 * 2019 - [PasifikaOS 0.0.1](https://drive.google.com/file/d/1BjPci7oPANdDT8ospCLiohrPbctCarCB/view?usp=sharing) - My first release of PasifikaOS.
 * 2020 - [PasifikaOS 0.0.2](https://drive.google.com/file/d/1Q13ZXlrILQs8cMEFH2SAqaeBrvsJXFNy/view?usp=sharing) - My second release of PasifikaOS.
-* 2024 - [PasifikaOS 0.0.3](https://img.freepik.com/premium-vector/welcome-web-30-abstract-future-hud-geometric-shape-design_48644-306.jpg?w=740) - My third release of PasifikaOS.
+* 2024 - [PasifikaOS 0.0.3](https://img.freepik.com/premium-vector/welcome-web-30-abstract-future-hud-geometric-shape-design_48644-306.jpg?w=740) - My third release of PasifikaO is coming soon!
 
 ## Demo
 
