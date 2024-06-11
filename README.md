@@ -11,8 +11,8 @@ PasifikaOS is based on the lightweight and energy-efficient Lubuntu variant of U
 Despite my best efforts from May 2019 to April 2020, the PasifikaOS project failed to gain significant traction and adoption across the islands. I realized that while the intentions were noble, the execution fell short of truly empowering local communities with the right tools and resources.
 
 * 2019 - [PasifikaOS 0.0.1](https://drive.google.com/file/d/1BjPci7oPANdDT8ospCLiohrPbctCarCB/view?usp=sharing) - My first release of PasifikaOS.
-* 2020 - [PasifikaOS 0.0.2](https://github.com/EdwinLiavaa/pasifikaos/releases/pasifikaos2.iso) - My second release of PasifikaOS.
-* 2024 - Coming Soon!
+* 2020 - [PasifikaOS 0.0.2](https://drive.google.com/file/d/1Q13ZXlrILQs8cMEFH2SAqaeBrvsJXFNy/view?usp=sharing) - My second release of PasifikaOS.
+* 2024 - [PasifikaOS 0.0.3](https://img.freepik.com/premium-vector/welcome-web-30-abstract-future-hud-geometric-shape-design_48644-306.jpg?w=740) - My third release of PasifikaOS.
 
 ## Demo
 
@@ -26,13 +26,13 @@ The PasifikaOS demo is available [here]](https://youtu.be/gEWB5ppQmbI?si=cPyke5Y
 4. Search the Internet on how to install an iso image from a flash drive. 
 5. Enjoy!
 
-## Revival
+## The Revival
 
 Undeterred, I have decided to rededicate my retirement to the revial of PasifikaOS.
 
 This time, PasifikaOS will be the manifestation of my whitepaper [Decentralized Micro-Governance Model for the Kingdom of Tonga Based on Proof-of-Work Consensus](https://github.com/EdwinLiavaa/Whitepaper) in the form of an open-source Operating System project.
 
-## Future
+## The Future
 
-In order to achieve this vision, I have to give the all citizens PasifikaOS as the tool to engage with the world in [Proof-of-Work as Humanity's Emancipation Engine](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240602/20240602.md)
+In order to achieve this vision, I have to give all citizens PasifikaOS as the tool to engage with the world in [Proof-of-Work as Humanity's Emancipation Engine](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240602/20240602.md)
 
