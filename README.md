@@ -22,30 +22,6 @@ PasifikaOS 1.0 and 2.0 community-driven Linux distribution was based on Lubuntu 
 
 Despite my best efforts from May 2019 to April 2020, the PasifikaOS project failed to gain significant traction and adoption across the islands. I realized that while the intentions were noble, the execution fell short of truly empowering local communities with the right tools and resources.
 
-## Download
-
-* 2019 - [PasifikaOS 1.0](https://drive.google.com/file/d/1BjPci7oPANdDT8ospCLiohrPbctCarCB/view?usp=sharing) 
-  
-* 2020 - [PasifikaOS 2.0](https://drive.google.com/file/d/1Q13ZXlrILQs8cMEFH2SAqaeBrvsJXFNy/view?usp=sharing) 
-  
-* 2024 - [PasifikaOS 3.0](https://img.freepik.com/premium-vector/welcome-web-30-abstract-future-hud-geometric-sis)
-
-## Demo
-
-The PasifikaOS demo is available [here](https://youtu.be/gEWB5ppQmbI?si=cPyke5Yk_YW2tRPQ).
-
-## How to test and install
-
-1. Download the iso image from the links above.
-2. Search the Internet on how to burn an iso image into a flash drive.
-3. Search the Internet on how to boot your computer from a flash drive.
-4. Search the Internet on how to install an iso image from a flash drive. 
-5. Enjoy!
-
-Username(s) and Password(s):
-* user = live/evolution
-* root = root/evolution
-
 ## The Revival
 
 Undeterred, I have decided to rededicate my retirement to the revial of PasifikaOS.
@@ -97,3 +73,27 @@ I invite all tech enthusiasts, blockchain advocates, and those passionate about 
 The road to freedom is paved with open-source code and decentralized networks. With Bitcoin Core, Chainlink, and PasifikaOS, we're taking giant leaps forward. More innovations are on the horizon – this is just the beginning of our journey towards true digital and financial sovereignty.
 
 It is indeed interesting times and ultimately, my vision for PasifikaOS is to become your Bitcoin Mining Operating System, stay tuned since there is more to come.
+
+## Download
+
+* 2019 - [PasifikaOS 1.0](https://drive.google.com/file/d/1BjPci7oPANdDT8ospCLiohrPbctCarCB/view?usp=sharing) 
+  
+* 2020 - [PasifikaOS 2.0](https://drive.google.com/file/d/1Q13ZXlrILQs8cMEFH2SAqaeBrvsJXFNy/view?usp=sharing) 
+  
+* 2024 - [PasifikaOS 3.0](https://img.freepik.com/premium-vector/welcome-web-30-abstract-future-hud-geometric-sis)
+
+## Demo
+
+The PasifikaOS demo is available [here](https://youtu.be/gEWB5ppQmbI?si=cPyke5Yk_YW2tRPQ).
+
+## How to test and install
+
+Username(s) and Password(s):
+* user = live/evolution
+* root = root/evolution
+  
+1. Download the iso image from the links above.
+2. Search the Internet on how to burn an iso image into a flash drive.
+3. Search the Internet on how to boot your computer from a flash drive.
+4. Search the Internet on how to install an iso image from a flash drive. 
+5. Enjoy!
