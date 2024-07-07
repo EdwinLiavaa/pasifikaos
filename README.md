@@ -28,7 +28,7 @@ Despite my best efforts from May 2019 to April 2020, the PasifikaOS project fail
   
 * 2020 - [PasifikaOS 2.0](https://drive.google.com/file/d/1Q13ZXlrILQs8cMEFH2SAqaeBrvsJXFNy/view?usp=sharing) 
   
-* 2024 - [PasifikaOS 3.0](https://img.freepik.com/premium-vector/welcome-web-30-abstract-future-hud-geometric-sis
+* 2024 - [PasifikaOS 3.0](https://img.freepik.com/premium-vector/welcome-web-30-abstract-future-hud-geometric-sis)
 
 ## Demo
 
@@ -41,6 +41,10 @@ The PasifikaOS demo is available [here](https://youtu.be/gEWB5ppQmbI?si=cPyke5Yk
 3. Search the Internet on how to boot your computer from a flash drive.
 4. Search the Internet on how to install an iso image from a flash drive. 
 5. Enjoy!
+
+Username(s) and Password(s):
+* user = live/evolution
+* root = root/evolution
 
 ## The Revival
 
