@@ -74,6 +74,10 @@ The road to freedom is paved with open-source code and decentralized networks. W
 
 It is indeed interesting times and ultimately, my vision for PasifikaOS is to become your Bitcoin Mining Operating System, stay tuned since there is more to come.
 
+## Demo
+
+The PasifikaOS demo is available [here](https://youtu.be/gEWB5ppQmbI?si=cPyke5Yk_YW2tRPQ).
+
 ## Download
 
 * 2019 - [PasifikaOS 1.0](https://drive.google.com/file/d/1BjPci7oPANdDT8ospCLiohrPbctCarCB/view?usp=sharing) 
@@ -81,10 +85,6 @@ It is indeed interesting times and ultimately, my vision for PasifikaOS is to be
 * 2020 - [PasifikaOS 2.0](https://drive.google.com/file/d/1Q13ZXlrILQs8cMEFH2SAqaeBrvsJXFNy/view?usp=sharing) 
   
 * 2024 - [PasifikaOS 3.0](https://img.freepik.com/premium-vector/welcome-web-30-abstract-future-hud-geometric-sis)
-
-## Demo
-
-The PasifikaOS demo is available [here](https://youtu.be/gEWB5ppQmbI?si=cPyke5Yk_YW2tRPQ).
 
 ## How to test and install
 
