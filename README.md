@@ -8,7 +8,7 @@ Your Bitcoin Core Operating System
 
 ## About PasifikaOS 
 
-The current version of PasifikaOS 3.0 is now a lightweight and energy-efficient variant of Linux Lite 7.0 based Ubuntu Desktop 24.04 LTS: Noble Numbat with Linux Kernel 6.8.0-36-generic (x86_64), tailored to provide an elegant, user-friendly computing experience. But more importantly, it empowers users with the freedom and security of an open-source operating system, free from the constraints and risks of pirated proprietary software.
+The current version of PasifikaOS 3.0 is now a lightweight and energy-efficient variant based Ubuntu Desktop 24.04 LTS: Noble Numbat with Linux Kernel 6.8.0-36-generic (x86_64), tailored to provide an elegant, user-friendly computing experience. But more importantly, it empowers users with the freedom and security of an open-source operating system, free from the constraints and risks of pirated proprietary software.
 
 PasifikaOS now comes loaded with Bitcoin Core with the vision of welcoming citizens to the domain of Web3 as an enabler in getting them familiar with blockchains with Bitcoin as the first and primier for other cryptocurrencies.
 
