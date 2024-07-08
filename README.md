@@ -84,7 +84,7 @@ The PasifikaOS demo is available [here](https://youtu.be/QBV_3B35RmA).
   
 * 2020 - [PasifikaOS 2.0](https://drive.google.com/file/d/1Q13ZXlrILQs8cMEFH2SAqaeBrvsJXFNy/view?usp=sharing) 
   
-* 2024 - [PasifikaOS 3.0](https://img.freepik.com/premium-vector/welcome-web-30-abstract-future-hud-geometric-sis)
+* 2024 - [PasifikaOS 3.0](https://drive.google.com/file/d/16qRsXJ2yWK9Ck8mMEzPa15jJNtKoCx9P/view?usp=sharing)
 
 ## How to test and install
 
