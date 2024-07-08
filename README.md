@@ -76,7 +76,7 @@ It is indeed interesting times and ultimately, my vision for PasifikaOS is to be
 
 ## Demo
 
-The PasifikaOS demo is available [here](https://youtu.be/gEWB5ppQmbI?si=cPyke5Yk_YW2tRPQ).
+The PasifikaOS demo is available [here](https://youtu.be/QBV_3B35RmA).
 
 ## Download
 
@@ -89,8 +89,8 @@ The PasifikaOS demo is available [here](https://youtu.be/gEWB5ppQmbI?si=cPyke5Yk
 ## How to test and install
 
 Username(s) and Password(s):
-* user = live/evolution
-* root = root/evolution
+* user = user/bitcoin
+* root = root/bitc01n
   
 1. Download the iso image from the links above.
 2. Search the Internet on how to burn an iso image into a flash drive.
