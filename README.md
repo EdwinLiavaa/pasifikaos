@@ -14,7 +14,7 @@ PasifikaOS now comes loaded with Bitcoin Core with the vision of welcoming citiz
 
 Additionally, PasifikaOS 3.0 will include educational resources about Bitcoin, blockchain technology, and the importance of financial literacy in the digital age. Our goal is not just to provide tools, but to empower our community with knowledge.
 
-Moreover, making it easier than ever for our users to run their own Bitcoin nodes and running PasifikaOS from a USB as their own personal hardware wallet.
+Moreover, making it easier than ever for our users to run their own Bitcoin nodes and running PasifikaOS from a USB flash drive as their own personal hardware wallet.
 
 ## History
 
