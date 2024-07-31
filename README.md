@@ -97,7 +97,7 @@ It is indeed interesting times and ultimately, my vision for PasifikaOS is to be
 ## Demo
 
 * The PasifikaOS 2.0 demo is available [here](https://youtu.be/gEWB5ppQmbI).
-* 
+  
 * The PasifikaOS 3.0 demo is available [here](https://youtu.be/QBV_3B35RmA).
 
 ## Download
