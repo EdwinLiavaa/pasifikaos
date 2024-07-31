@@ -100,7 +100,7 @@ The PasifikaOS demo is available [here](https://youtu.be/QBV_3B35RmA).
 
 ## Download
 
-* 2019 - [PasifikaOS 1.0](https://drive.google.com/file/d/1BjPci7oPANdDT8ospCLiohrPbctCarCB/view?usp=sharing) 
+* 2019 - PasifikaOS 1.0 - No Longer Supported
   
 * 2020 - [PasifikaOS 2.0](https://drive.google.com/file/d/1Q13ZXlrILQs8cMEFH2SAqaeBrvsJXFNy/view?usp=sharing) 
   
