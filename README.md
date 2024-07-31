@@ -111,8 +111,8 @@ It is indeed interesting times and ultimately, my vision for PasifikaOS is to be
 ## How to test and install
 
 Username(s) and Password(s):
-* user = user/bitcoin
-* root = root/bitc01n
+* user = bitcoin
+* root = bitc01n
   
 1. Download the iso image from the links above.
 2. Search the Internet on how to burn an iso image into a flash drive.
