@@ -16,6 +16,10 @@ Additionally, PasifikaOS 3.0 will include educational resources about Bitcoin, b
 
 Moreover, making it easier than ever for citizens to host their own Bitcoin nodes and running PasifikaOS from a USB flash drive as their own personal hardware wallet.
 
+## Updates
+
+* 17 August 2024 - [Empowering Digital Sovereignty: Integrating Bitcoin Core, Rootstock, and PasifikaOS](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240817/20240817.md)
+
 ## History
 
 PasifikaOS 1.0 and 2.0 community-driven Linux distribution was based on Lubuntu  variant of Ubuntu using LXDE, the Lightweight X11 Desktop Environment. 
