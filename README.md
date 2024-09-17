@@ -18,7 +18,7 @@ Moreover, FBI published a report on the state of crypto-related fraud. According
 
 ## History
 
-PasifikaOS 1.0 and 2.0 community-driven Linux distribution was based on Lubuntu  variant of Ubuntu using LXDE, the Lightweight X11 Desktop Environment. 
+PasifikaOS 1.0 and 2.0 community-driven Linux distribution were based on Lubuntu variant of Ubuntu using LXDE, the Lightweight X11 Desktop Environment. 
 
 Despite my best efforts from May 2019 to April 2020, the PasifikaOS project failed to gain significant traction and adoption across the islands. I realized that while the intentions were noble, the execution fell short of truly empowering local communities with the right tools and resources.
 
