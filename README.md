@@ -8,17 +8,13 @@ Your Bitcoin Core Operating System
 
 ## About PasifikaOS 
 
-The current version of PasifikaOS 3.0 is now a lightweight and energy-efficient variant based Ubuntu Desktop 24.04 LTS: Noble Numbat with Linux Kernel 6.8.0-36-generic (x86_64), tailored to provide an elegant, user-friendly computing experience. But more importantly, it empowers users with the freedom and security of an open-source operating system, free from the constraints and risks of pirated proprietary software.
+PasifikaOS is a lightweight and energy-efficient variant based Ubuntu Desktop 24.04 LTS: Noble Numbat with Linux Kernel 6.8.0-36-generic (x86_64), tailored to provide an elegant, user-friendly computing experience. But more importantly, it empowers users with the freedom and security of an open-source operating system, free from the constraints and risks of pirated proprietary software.
 
-PasifikaOS now comes loaded with Bitcoin Core with the vision of welcoming citizens to the domain of Web3 as an enabler in getting them familiar with blockchains with Bitcoin as the first and primier for other cryptocurrencies.
+PasifikaOS comes loaded with Bitcoin Core with the vision of welcoming citizens to the domain of Web3 as an enabler in getting them familiar with blockchains with Bitcoin as the first and primier for other cryptocurrencies.
 
-Additionally, PasifikaOS 3.0 will include educational resources about Bitcoin, blockchain technology, and the importance of financial literacy in the digital age. Our goal is not just to provide tools, but to empower our community with knowledge.
+Additionally, PasifikaOS also includes educational resources about Bitcoin, blockchain technology, and the importance of financial literacy and freedom in the digital age. Our goal is not just to provide tools, but to empower our community with knowledge.
 
 Moreover, making it easier than ever for citizens to host their own Bitcoin nodes and running PasifikaOS from a USB flash drive as their own personal hardware wallet.
-
-## Updates
-
-* 17 August 2024 - [Empowering Digital Sovereignty: Integrating Bitcoin Core, Rootstock, and PasifikaOS](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240817/20240817.md)
 
 ## History
 
@@ -26,29 +22,9 @@ PasifikaOS 1.0 and 2.0 community-driven Linux distribution was based on Lubuntu 
 
 Despite my best efforts from May 2019 to April 2020, the PasifikaOS project failed to gain significant traction and adoption across the islands. I realized that while the intentions were noble, the execution fell short of truly empowering local communities with the right tools and resources.
 
-## The Revival
+## Current Developments
 
-Undeterred, I have decided to rededicate my retirement to the revial of PasifikaOS.
-
-This time, PasifikaOS will be the manifestation of my whitepaper [Decentralized Micro-Governance Model for the Kingdom of Tonga Based on Proof-of-Work Consensus](https://github.com/EdwinLiavaa/Whitepaper) in the form of an open-source Operating System project.
-
-Its revival represents far more than just an operating system; it is a vehicle for embodying the principles of blockchain-based participatory governance on a grassroots level.
-
-At its core, the whitepaper outlines an innovative system where Tonga's Constitutional Monarchy establishes core national principles, while citizens directly enact policies through a proof-of-work blockchain. This allows a fluid balance between centralized guidance and radical decentralized autonomy, empowering communities to self-organize through participatory consensus.
-
-PasifikaOS will serve as the foundational digital infrastructure supporting this new paradigm. Each citizen running PasifikaOS on their devices will have the ability to engage directly with the national governance blockchain, proposing and validating policies that shape the future of their communities.
-
-Through intuitive interfaces and tooling built into PasifikaOS, the barriers to entry for hands-on governance participation will be drastically reduced. No longer will the voice of the people be subjugated to sluggish institutions - PasifikaOS will be the catalyst for a true nationwide exercise in self-determination.
-
-Just as the proposed model allows localities to instantiate self-sovereign community blockchains inherited from the national root, PasifikaOS will enable collaborative development of its own decentralized applications and services. The open-source nature of the platform ensures full transparency and autonomy, aligning with the overarching vision of participatory pluralism.
-
-With PasifikaOS, we're not just building another Linux distribution - we're constructing the digital highways and onramps to a new frontier of grassroots blockchain democracy. This revival represents my life's work coming full circle, fusing my long-standing passion for FOSS, Pacific development, and decentralized technologies into one unifying purpose.
-
-The road ahead will be an iterative journey of collaborative refinement as more citizens embrace the PasifikaOS ecosystem. But the foundation has been laid for an unprecedented transformation in how sovereign societies coordinate and instantiate their collective visions.
-
-## The Future
-
-In order to achieve this vision, I am giving all citizens PasifikaOS as the tool to engage with the world in [Proof-of-Work as Humanity's Emancipation Engine](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240602/20240602.md)
+We are giving all citizens PasifikaOS as the tool to engage with the world in [Proof-of-Work as Humanity's Emancipation Engine](https://hackernoon.com/bitcoin-proof-of-work-as-humanitys-emancipation-engine)
 
 * Looking Ahead
 
@@ -90,26 +66,18 @@ Chainlink is a decentralized oracle network that enables smart contracts on vari
 
 This triple integration of Bitcoin Core, Rootstock and Chainlink represents the holistic approach to blockchain adoption. While Bitcoin Core offers financial sovereignty and a robust store of value, Rootstock and Chainlink provides the critical data infrastructure needed for more complex blockchain applications and services.
 
-I believe that the combination of open-source software, blockchain technology, and grassroots participation will pave the way for a more equitable, transparent, and prosperous future. By embracing both Bitcoin, Rootstock and Chainlink, I am positioning PasifikaOS at the forefront of the decentralized revolution.
+I know that the combination of open-source software, blockchain technology, and grassroots participation will pave the way for a more equitable, transparent, and prosperous future. By embracing both Bitcoin, Rootstock and Chainlink, I am positioning PasifikaOS at the forefront of the decentralized revolution.
 
 I invite all tech enthusiasts, blockchain advocates, and those passionate about digital sovereignty to join me in this exciting journey. Whether you're interested in testing PasifikaOS 3.0, contributing to its development, or simply learning more about the vision, your participation is welcome.
 
-The road to freedom is paved with open-source code and decentralized networks. With Bitcoin Core, Rootstock, Chainlink, and PasifikaOS, we're taking giant leaps forward. More innovations are on the horizon – this is just the beginning of our journey towards true digital and financial sovereignty.
-
-It is indeed interesting times and ultimately, my vision for PasifikaOS is to become your Bitcoin Mining Operating System, stay tuned since there is more to come.
+The road to financial freedom is paved with open-source code and decentralized networks. With Bitcoin Core, Rootstock, Chainlink, and PasifikaOS, we're taking giant leaps forward. More innovations are on the horizon – this is just the beginning of our journey towards true digital and financial sovereignty.
 
 ## Demo
 
-* The PasifikaOS 2.0 demo is available [here](https://youtu.be/gEWB5ppQmbI).
-  
-* The PasifikaOS 3.0 demo is available [here](https://youtu.be/QBV_3B35RmA).
+* The PasifikaOS demo is available [here](https://youtu.be/QBV_3B35RmA).
 
 ## Download
 
-* 2019 - PasifikaOS 1.0 - No Longer Supported
-  
-* 2020 - [PasifikaOS 2.0](https://drive.google.com/file/d/1Q13ZXlrILQs8cMEFH2SAqaeBrvsJXFNy/view?usp=sharing) 
-  
 * 2024 - [PasifikaOS 3.0](https://drive.google.com/file/d/16qRsXJ2yWK9Ck8mMEzPa15jJNtKoCx9P/view?usp=sharing)
 
 ## How to test and install
