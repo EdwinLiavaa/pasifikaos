@@ -14,7 +14,7 @@ PasifikaOS comes loaded with Bitcoin Core with the vision of welcoming citizens 
 
 Additionally, PasifikaOS also includes educational resources about Bitcoin, blockchain technology, and the importance of financial literacy, freedom and security in the digital age. Our goal is not just to provide tools, but to empower our community with knowledge.
 
-Moreover, FBI published a report on the state of crypto-related fraud. According to the report, crypto-related losses exceeded $5.6B in 2023 (a 45% increase) which is half of total reported financial fraud losses processed by the agency. PasifikaOS priortises security by making it easier than ever for citizens to host their own Bitcoin nodes to confirm transactions and running PasifikaOS from a USB flash drive as their own personal secure hardware wallet.
+Moreover, FBI published a report on the state of crypto-related fraud. According to the report, crypto-related losses exceeded $5.6B in 2023 (a 45% increase) which is half of total reported financial fraud losses processed by the agency. PasifikaOS prioritizes security by making it easier than ever for citizens to host their own Bitcoin nodes to confirm transactions and running PasifikaOS from a USB flash drive as their own personal secure hardware wallet.
 
 ## History
 
