@@ -52,7 +52,7 @@ By creating a lightweight, energy-efficient system optimized for lower-resource 
 
 ## Getting Started: Coming Soon
 
-PasifikaOS Web3 is currently in active development and will be available for download towards the end of July 2025. This timeline gives Pacific communities adequate preparation time for testing and deployment while we finalize the integration of all blockchain components and complete extensive security testing.
+PasifikaOS Web3 is currently in active development and will be available for download towards the end of August 2025. This timeline gives Pacific communities adequate preparation time for testing and deployment while we finalize the integration of all blockchain components and complete extensive security testing.
 
 Whether you're a government administrator looking to reduce software costs, an educator seeking to empower students with digital literacy, or a community leader interested in exploring Web3 technologies, PasifikaOS will provide the foundation for digital sovereignty in the Pacific.
 
